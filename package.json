@@ -1,0 +1,44 @@
+{
+  "name": "expaforms",
+  "homepage": ".",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.8.3",
+    "@material-ui/lab": "^4.0.0-alpha.39",
+    "@material-ui/styles": "^4.8.2",
+    "bootstrap": "^4.3.1",
+    "material-ui": "^0.20.2",
+    "mdbootstrap": "^4.11.0",
+    "mdbreact": "^4.21.1",
+    "node-fetch": "^2.6.0",
+    "query-string": "^6.9.0",
+    "react": "^16.10.2",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gcloud app deploy"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

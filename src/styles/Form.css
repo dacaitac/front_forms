@@ -1,0 +1,24 @@
+#header
+{
+        margin: 0;
+        padding: 0;
+        border-top: 3px solid #f85a40;
+}
+
+#titleGV{
+    color: #f85a40
+}
+
+#titleGT{
+    color: #0a8ea0
+}
+
+#titleGE{
+    color: #30c39e
+}
+
+h2{
+    font-size: 3.56rem;
+    line-height: 110%;
+    margin: 1.78rem 0 1.424rem 0;
+}
